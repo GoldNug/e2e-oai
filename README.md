@@ -10,4 +10,4 @@
 5. GPA: 3.09/4.00
 6. Topic: OAI (OpenAirInterface)
 7. Mentor: -
-8. Portfolio: [Linkedin](www.linkedin.com/in/jason-theo-salim-a05113256), [CV](), [Github](https://github.com/GoldNug)
+8. Portfolio: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jason-theo-salim-a05113256)  , [CV](), [Github](https://github.com/GoldNug)
