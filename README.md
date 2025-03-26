@@ -11,7 +11,3 @@
 6. Topic: OAI (OpenAirInterface)
 7. Mentor: -
 8. Portfolio: [Linkedin](www.linkedin.com/in/jason-theo-salim-a05113256), [CV](), [Github](https://github.com/GoldNug)
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/jason-theo-salim-a05113256"
