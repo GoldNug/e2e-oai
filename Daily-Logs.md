@@ -18,5 +18,5 @@
 
 ## 2025/03/30
 **Daily Logs**:
-- 19.00-21.00 Finished an IEEE documentation [report]() for current project.
+- 19.00-21.00 Finished an IEEE documentation [report](https://github.com/GoldNug/e2e-oai/blob/2025-TEEP-9-Jason/docs/OAI_RTT_Jason%20Theo%20Salim.pdf) for current project.
 - 18.00-19.00 Tidied up and completed the GitHub documentation.
