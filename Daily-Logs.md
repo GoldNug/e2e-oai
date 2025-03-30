@@ -8,4 +8,4 @@
 **Daily Logs**:
 - 14.00-16.00: [Installed and built necessary dependencies. Slow network causes slow progress.](https://github.com/GoldNug/e2e-oai/tree/2025-TEEP-9-Jason/docs/Initial_Setup)
 - 17.00-19.00: [Finished debugging any errors on OAI, gNB, and nrUE. Official documentation for setting up the OAI has some syntax mismatches.](https://github.com/GoldNug/e2e-oai/blob/2025-TEEP-9-Jason/docs/Initial_Setup/Debugging%20Notes.md)
-- 19.00-20.00: [Successfully performed a Round Trip Test](Goal 2 #Header_1 link)(https://github.com/GoldNug/e2e-oai/tree/2025-TEEP-9-Jason/docs/Testing_Results)
+- 19.00-20.00: [Successfully performed a Round Trip Test](https://github.com/GoldNug/e2e-oai/tree/2025-TEEP-9-Jason/docs/Testing_Results)
