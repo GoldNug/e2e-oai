@@ -41,9 +41,6 @@ There is a possibiity that the ```docker compose pull``` command doesn't work, a
 
 Following the documentation, installing the UHD is a necessary process to allow wireless communication. However, building it is also necessary :
 ```
-sudo apt update
-sudo apt install libuhd-dev uhd-host cmake g++ libboost-all-dev \
-                 libusb-1.0-0-dev python3-mako python3-numpy -y
 git clone --recursive https://github.com/EttusResearch/uhd.git
 cd uhd
 mkdir build
