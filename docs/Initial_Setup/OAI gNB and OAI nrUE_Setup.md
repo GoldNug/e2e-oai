@@ -19,3 +19,21 @@ sudo uhd_images_downloader
 
 If the step above doesn't work, refer to the [debugging notes](https://github.com/GoldNug/e2e-oai/blob/2025-TEEP-9-Jason/docs/Initial_Setup/Debugging%20Notes.md) on the UHD building and installation
 
+Build command
+```
+# Get openairinterface5g source code
+git clone https://gitlab.eurecom.fr/oai/openairinterface5g.git ~/openairinterface5g
+cd ~/openairinterface5g
+git checkout develop
+
+# Install OAI dependencies
+cd ~/openairinterface5g/cmake_targets
+./build_oai -I
+
+# nrscope dependencies
+sudo apt install -y libforms-dev libforms-bin
+
+# Build OAI gNB
+cd ~/openairinterface5g/cmake_targets
+./build_oai -w USRP --ninja --nrUE --gNB --build-lib "nrscope" -C
+```
