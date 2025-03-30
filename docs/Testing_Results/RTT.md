@@ -18,7 +18,7 @@ cd ~/openairinterface5g/cmake_targets/ran_build/build
 sudo ./nr-uesoftmodem -r 106 --numerology 1 --band 78 -C 3619200000 --uicc0.imsi 001010000000001 --rfsim
 ```
 
-Perform an end to end connectivity test to validate (on another terminal). This test pings from the UE host to CN5G. The expected output can be viewed [here]()
+Perform an end to end connectivity test to validate (on another terminal). This test pings from the UE host to CN5G. The expected output can be viewed [here](https://github.com/GoldNug/e2e-oai/blob/2025-TEEP-9-Jason/docs/Testing_Results/Ping%20test.png)
 ```
 ping 192.168.70.135 -I oaitun_ue1
 ```
