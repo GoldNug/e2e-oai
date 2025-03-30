@@ -18,5 +18,5 @@
 
 ## 2025/03/30
 **Daily Logs**:
-- 12.00-15.00 Finished an IEEE documentation [report]() for current project.
+- 19.00-21.00 Finished an IEEE documentation [report]() for current project.
 - 18.00-19.00 Tidied up and completed the GitHub documentation.
