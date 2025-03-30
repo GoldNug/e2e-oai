@@ -17,4 +17,5 @@ sudo ldconfig
 sudo uhd_images_downloader
 ```
 
-If the step above doesn't work, refer to the [debugging notes]() on the UHD building and installation
+If the step above doesn't work, refer to the [debugging notes](https://github.com/GoldNug/e2e-oai/blob/2025-TEEP-9-Jason/docs/Initial_Setup/Debugging%20Notes.md) on the UHD building and installation
+
